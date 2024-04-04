@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jonathan from Singapore
-- 👨‍💻 I'm currently working on improving my portfolio and technical capabilities
-- 🤗 I’m looking for help with career advice as well as how I can improve as a software engineer
+- 👋 Hi, I am Jonathan from Singapore
+- 👨‍💻 I am currently working on improving my portfolio and technical capabilities
+- 🤗 I am looking for help with career advice as well as how I can improve as a software engineer
 - 📫 How to reach me : https://www.linkedin.com/in/jonathan-quek-ww/
 - ⚡ Fun fact: I love learning and understanding game mechanics
