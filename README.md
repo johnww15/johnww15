@@ -1,10 +1,12 @@
 <h3 align="center"><b>👋 About Me</b></h3>
     <p align="center">
-    Hi, I'm Jonathan.
-    <br>
+    Hi, I'm Jonathan from Singapore.
+    <hr>
     Previously a sales & marketing professional in early stage, high growth SaaS startups looking to make a career shift into a technical field.
-    <br>
-    I have a keen interest in developing and building new features, projects and applications for the customers.
+    <hr>
+    Currently focused on improving my JS, React and Web development skillsets as well as Data Structures & algorithms knowledge but am more than ready to venture into other languages and frameworks when necessary.
+    <hr>
+    Moving forward, I am keen in being a part of a team to develop new features, projects and applications for the users.
     </p>
 
 <h3 align="center"><b>👩🏻‍💻 Languages and Tools:</b></h3>
