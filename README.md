@@ -16,6 +16,6 @@
 <hr>
 <h3 align="center"><b>🔗 Let's Connect!</b></h3>
     <p align="center">
-        <a href="https://www.linkedin.com/in/jane-tan-/"><img src="https://skillicons.dev/icons?i=linkedin"" alt="LinkedIn"/></a>&nbsp
+        <a href="https://www.linkedin.com/in/jonathan-quek-ww/"><img src="https://skillicons.dev/icons?i=linkedin"" alt="LinkedIn"/></a>&nbsp
         <a href="mailto: jonathan.quekww@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>&nbsp
     </p>
