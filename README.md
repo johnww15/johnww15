@@ -6,7 +6,7 @@
     <hr>
     Currently focused on <b>improving my JS, React and Web development skillsets as well as Data Structures & algorithms knowledge</b> but am more than ready to venture into other languages and frameworks when necessary.
     <hr>
-    Moving forward, I am keen in being a part of a team to develop new features, projects and applications for the users.
+    I am keen in being a part of a team to develop new features, projects and applications for the users.
     </p>
 <hr>
 <h3 align="center"><b>👩🏻‍💻 Languages and Tools:</b></h3>
